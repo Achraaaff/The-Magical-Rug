@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0">
+ <kcfgfile name=""/><group name="General">
+  <entry name="rugX" type="Int"><default>322</default></entry>
+  <entry name="rugY" type="Int"><default>10</default></entry>
+  <entry name="rugWidth" type="Int"><default>829</default></entry>
+  <entry name="rugHeight" type="Int"><default>538</default></entry>
+  <entry name="clothState" type="String"><default></default></entry>
+  <entry name="engineDiagnostics" type="String"><default></default></entry>
+  <entry name="rendererRevision" type="Int"><default>5</default></entry>
+ </group>
+</kcfg>

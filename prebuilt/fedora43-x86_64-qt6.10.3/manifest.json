@@ -1,0 +1,12 @@
+{
+  "platform": "Fedora Linux 43",
+  "architecture": "x86_64",
+  "qt_version": "6.10.3",
+  "renderer_revision": 5,
+  "sha256": {
+    "cloth.vert.qsb": "ea2b4e01828fa6be134d039862182a36336637cf8f978ef51c4c54121b0065ae",
+    "cloth.frag.qsb": "2eb13a484448801fd88b60b44274c77fc090affad0d9f3389895081a0a97e011",
+    "libdesktopruglock.so": "540d7fa2c964a8fc26a0535cd92248630bed5075e77ad4b85168505b2fdb8828",
+    "qmldir": "d1fed2f1b2290c4c63f2b0e4fdc9efdbccc29a84700867451bdc44a910b4a3f2"
+  }
+}

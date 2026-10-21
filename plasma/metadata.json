@@ -1,0 +1,24 @@
+{
+  "KPlugin": {
+    "Id": "org.local.desktoprug.cloth",
+    "Name": "The Magical Rug",
+    "Description": "A native cloth rug with bending, gravity, friction and self collision.",
+    "Version": "2.4.0",
+    "License": "MIT",
+    "Authors": [
+      {
+        "Name": "Local desktop tools"
+      },
+      {
+        "Name": "Artem / siliconbag (original cloth solver and texture)"
+      }
+    ],
+    "Icon": "preferences-desktop-wallpaper",
+    "Category": "Fun and Games"
+  },
+  "KPackageStructure": "Plasma/Applet",
+  "X-Plasma-API-Minimum-Version": "6.0",
+  "X-Plasma-FormFactors": [
+    "desktop"
+  ]
+}

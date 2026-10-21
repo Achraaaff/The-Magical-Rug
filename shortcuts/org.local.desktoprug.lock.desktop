@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Lock or unlock Desktop Rug
+Comment=Toggle the desktop rug interaction lock
+Exec=/usr/bin/qdbus-qt6 org.kde.plasmashell /org/local/DesktopRug org.local.DesktopRug.ToggleLock
+Icon=object-locked
+Terminal=false
+StartupNotify=false
+X-KDE-GlobalAccel-CommandShortcut=true
+X-KDE-Shortcuts=Ctrl+Alt+R
